@@ -186,7 +186,7 @@ public class Practical1 {
    	//public static void mains(String args[])
         
         //mains-main
-        public static void main(String args[])
+        public static void main(String [] args)
         {
       */  
 
